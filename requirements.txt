@@ -1,0 +1,6 @@
+pymupdf
+pytesseract
+spacy
+customtkinter
+pillow
+ocrmac
